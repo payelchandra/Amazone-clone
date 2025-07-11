@@ -38,10 +38,10 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 10px;
     color: #cccccc;
     font-size: 0.85rem;
-    margin: 15px;
+    margin: 3px;
 }
 .add-second{
     display: flex;
